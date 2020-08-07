@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouToDo", "YouToDo\YouToDo.csproj", "{C576C193-71A5-49C5-AE54-CE1EAFDB6C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouToGame", "YouToGame\YouToGame.csproj", "{95648DA1-E368-4F1F-B549-753855062B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouToShop", "YoutoShop\YouToShop.csproj", "{6727AA03-17F9-4388-983B-E07988788D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C576C193-71A5-49C5-AE54-CE1EAFDB6C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C576C193-71A5-49C5-AE54-CE1EAFDB6C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C576C193-71A5-49C5-AE54-CE1EAFDB6C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C576C193-71A5-49C5-AE54-CE1EAFDB6C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95648DA1-E368-4F1F-B549-753855062B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95648DA1-E368-4F1F-B549-753855062B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95648DA1-E368-4F1F-B549-753855062B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95648DA1-E368-4F1F-B549-753855062B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6727AA03-17F9-4388-983B-E07988788D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6727AA03-17F9-4388-983B-E07988788D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6727AA03-17F9-4388-983B-E07988788D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6727AA03-17F9-4388-983B-E07988788D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D05D348-3DE6-4AD6-9A68-60DE8EA488F5}
+	EndGlobalSection
+EndGlobal
